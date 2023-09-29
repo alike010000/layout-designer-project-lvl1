@@ -1,7 +1,2 @@
-/** CSS STYLE **/
-
-.hello {
-  display: block;
-
-  color: #fff;
-}
+@import "main.css";
+@import "helpers.css";
