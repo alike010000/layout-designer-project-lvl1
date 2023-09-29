@@ -1,7 +1,7 @@
 /* Main styles */
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+@import "'https://fonts.googleapis.com/css2?family=Open+Sans&display=swap')";
+@import "'https://fonts.googleapis.com/css2?family=Neucha&display=swap')";
 
 :root {
     --white: #fff;
